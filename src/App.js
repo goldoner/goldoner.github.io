@@ -39,13 +39,7 @@ function App() {
 
 
       </div>
-      <div className="row container .col-4 app centered2 ">
-        <SecondSwitch
-          isOn2={value2}
-          onColor="#EF476F"
-          handleToggle={() => setValue2(false)} />
 
-      </div>
 
       <div className="row container .col-4 app centered1">
 
